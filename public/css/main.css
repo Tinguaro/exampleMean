@@ -34,15 +34,6 @@ body {
 	margin-left:10px;
 }
 
-.logo {
-	border-width:0px !important;
-}
-.titulo {
-	border-width:0px !important;
-	color:white;
-	margin-left:10px;
-}
-
 .navP li .btn-nav {
 	color:white;
 	margin-left:10px;
@@ -57,7 +48,12 @@ body {
 	background:#222 !important;
 }
 
-.icono {
-	float:right;
-	padding: 5px;
+.col-md-12 {
+	padding:0px !important;
+	margin:0px !important;
+}
+
+.thumbnail {
+	padding:0px !important;
+	margin:0px !important;
 }
